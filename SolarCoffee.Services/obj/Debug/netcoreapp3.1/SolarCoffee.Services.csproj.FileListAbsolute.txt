@@ -1,0 +1,15 @@
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Services.deps.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Services.runtimeconfig.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Services.runtimeconfig.dev.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Services.dll
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Services.pdb
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.csprojAssemblyReference.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.AssemblyInfoInputs.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.AssemblyInfo.cs
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.csproj.CoreCompileInputs.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.dll
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.pdb
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.genruntimeconfig.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Data.dll
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/bin/Debug/netcoreapp3.1/SolarCoffee.Data.pdb
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Services/obj/Debug/netcoreapp3.1/SolarCoffee.Services.csproj.CopyComplete

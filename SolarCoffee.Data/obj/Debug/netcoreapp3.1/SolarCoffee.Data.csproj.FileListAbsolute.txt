@@ -1,0 +1,12 @@
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/bin/Debug/netcoreapp3.1/SolarCoffee.Data.deps.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/bin/Debug/netcoreapp3.1/SolarCoffee.Data.runtimeconfig.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/bin/Debug/netcoreapp3.1/SolarCoffee.Data.runtimeconfig.dev.json
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/bin/Debug/netcoreapp3.1/SolarCoffee.Data.dll
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/bin/Debug/netcoreapp3.1/SolarCoffee.Data.pdb
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.csprojAssemblyReference.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.AssemblyInfoInputs.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.AssemblyInfo.cs
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.csproj.CoreCompileInputs.cache
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.dll
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.pdb
+/home/seraga/Desktop/SolarCoffe/SolarCoffee.Data/obj/Debug/netcoreapp3.1/SolarCoffee.Data.genruntimeconfig.cache
