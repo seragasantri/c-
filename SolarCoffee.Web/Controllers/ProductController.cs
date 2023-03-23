@@ -28,7 +28,7 @@ namespace SolarCoffee.Web.Controllers
         }
 
         [HttpPatch("/api/product/{id}")]
-        public AcceptedResult ArchiveProduct(int id)
+        public ActionResult ArchiveProduct(int id)
         {
             _logger.LogInformation("Archiving product");
             var archiveResult = _productService.ArchiveProduct(id);
