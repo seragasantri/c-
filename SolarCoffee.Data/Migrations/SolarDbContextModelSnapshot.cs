@@ -308,8 +308,8 @@ namespace SolarCoffee.Data.Migrations
                         .HasColumnType("character varying(64)")
                         .HasMaxLength(64);
 
-                    b.Property<string>("Price")
-                        .HasColumnType("text");
+                    b.Property<decimal>("Price")
+                        .HasColumnType("numeric");
 
                     b.Property<DateTime>("UpdatedOn")
                         .HasColumnType("timestamp without time zone");
@@ -335,7 +335,7 @@ namespace SolarCoffee.Data.Migrations
                     b.Property<int?>("ProductId")
                         .HasColumnType("integer");
 
-                    b.Property<int>("QuantiityOnHand")
+                    b.Property<int>("QuantityOnHand")
                         .HasColumnType("integer");
 
                     b.Property<DateTime>("UpdatedOn")

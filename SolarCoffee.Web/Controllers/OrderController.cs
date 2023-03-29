@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SolarCoffee.Services.Customer;
 using SolarCoffee.Services.Order;
+using SolarCoffee.Web.Serialization;
 using SolarCoffee.Web.ViewModels;
 
 namespace SolarCoffee.Web.Controllers

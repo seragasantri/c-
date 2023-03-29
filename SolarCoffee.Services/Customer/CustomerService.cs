@@ -22,24 +22,20 @@ namespace SolarCoffee.Services.Customer
                 .ToList();
         }
 
-        public ServiceResponse<Data.Models.Customer> CreateCustomer(Data.Models.Customer customer)
-        {
-            try
-            {
+        public ServiceResponse<Data.Models.Customer> CreateCustomer(Data.Models.Customer customer) {
+            try {
                 _db.Customers.Add(customer);
                 _db.SaveChanges();
-                return  new ServiceResponse<Data.Models.Customer>
-                {
+                return new ServiceResponse<Data.Models.Customer> {
                     IsSuccess = true,
-                    Message = "New Customer added",
+                    Message = "New customer added",
                     Time = DateTime.UtcNow,
                     Data = customer
                 };
             }
-            catch (Exception e)
-            {
-                return  new  ServiceResponse<Data.Models.Customer>
-                {
+            
+            catch (Exception e) {
+                return new ServiceResponse<Data.Models.Customer> {
                     IsSuccess = false,
                     Message = e.StackTrace,
                     Time = DateTime.UtcNow,
